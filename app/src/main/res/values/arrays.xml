@@ -1,0 +1,17 @@
+<resources>
+    <string-array name="xposed_scope">
+        <item>dev.animeplay.app</item>
+        <item>com.fast.free.unblock.thunder.vpn</item>
+        <item>com.fast.free.unblock.secure.vpn</item>
+        <item>org.telegram.messenger</item>
+        <item>cn.wps.moffice_eng</item>
+        <item>com.alphainventor.filemanager</item>
+        <item>com.alif.ide</item>
+        <item>com.anichin.donghub</item>
+        <item>com.smp.musicspeed</item>
+        <item>com.cloudflare.onedotonedotonedotone</item>
+        <item>com.truedevelopersstudio.automatictap.autoclicker</item>
+        <item>com.appsisle.developerassistant</item>
+        <item>com.google.android.apps.photos</item>
+    </string-array>
+</resources>
