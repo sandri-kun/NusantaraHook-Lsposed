@@ -2,7 +2,7 @@
 
 **NusantaraHook-Lsposed**
 
-Versi panjang README profesional untuk repositori eksperimen modul **LSPosed** berbasis Kotlin. Project ini dibuat sebagai kerangka kerja modular untuk belajar dan bereksperimen dengan hooking pada Android menggunakan LSPosed, DexKit (native helper), dan Xposed API. Dokumentasi ini ditujukan untuk pengembang yang ingin memahami arsitektur, cara build, struktur kode, dan praktik kontribusi — tetap menekankan penggunaan etis dan legal.
+Project ini dibuat sebagai kerangka kerja modular untuk belajar dan bereksperimen dengan hooking pada Android menggunakan LSPosed, DexKit (native helper), dan Xposed API. Dokumentasi ini ditujukan untuk pengembang yang ingin memahami arsitektur, cara build, struktur kode, dan praktik kontribusi — tetap menekankan penggunaan etis dan legal.
 
 ---
 
