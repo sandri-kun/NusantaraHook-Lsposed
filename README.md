@@ -49,9 +49,27 @@ NusantaraHook-Lsposed adalah koleksi modular untuk membuat module LSPosed yang:
    git clone https://github.com/username/NusantaraHook-Lsposed.git
    cd NusantaraHook-Lsposed
 2. Buka di Android Studio:
-
-3. File → Open → pilih folder NusantaraHook-Lsposed.
+   File → Open → pilih folder NusantaraHook-Lsposed.
 
 4. Sinkronisasi Gradle, pastikan gradle.properties dan JDK path sudah sesuai.
 
-5. Assemble release/debug:
+5. Build apk
+   ```bash
+   ./gradlew :app:assembleRelease
+
+6. Install ke device
+Setelah build sukses, install module .apk ke device Android yang sudah terpasang LSPosed.
+
+## 🛠️ Cara Penggunaan
+
+1. Pastikan perangkat sudah rooted dengan Magisk + LSPosed.
+2. Install NusantaraHook-Lsposed.apk sebagai modul LSPosed.
+3. Aktifkan modul untuk aplikasi target
+4. Aplikasi lain dapat ditambahkan melalui kode.
+``` Reboot aplikasi target, lalu cek logcat / LSPosed log untuk memastikan hook berhasil.
+   
+> ⚠️ Disclaimer
+> ⚠️ Peringatan
+> Project ini dibuat hanya untuk tujuan pendidikan dan riset.
+> Penggunaan untuk membobol aplikasi, bypass keamanan, atau keperluan ilegal sangat dilarang.
+> Developer tidak bertanggung jawab atas segala penyalahgunaan.
